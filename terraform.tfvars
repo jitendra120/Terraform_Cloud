@@ -1,0 +1,12 @@
+iaas_classic_username = "USERNAME"
+private_vlan_id       = "VLAN"
+os_ref_code           = "REDHAT_7_64"
+is_private            = "false"
+vcpu                  = 1
+datacenter            = "DATACENTER"
+network_speed         = "100"
+hourly_billing        = "true"
+memory                = "1024"
+disk_size             = "25"
+local_disk            = "false"
+domain_name           = "DOMAIN_NAME"
